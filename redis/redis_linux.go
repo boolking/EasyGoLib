@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	"github.com/penggy/EasyGoLib/utils"
+	"github.com/fathandsomeboy/EasyGoLib/utils"
 )
 
 func Init() (err error) {
